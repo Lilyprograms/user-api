@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "maria",
+      "last_name": "Ene",
+      "age": 34,
+      "gender": "female",
+      "occupation": "Lawyer"
+    }
+  ]
+}
