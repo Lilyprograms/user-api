@@ -18,5 +18,17 @@
       "isEditing": false,
       "user_id": 1
     }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Why Junk Food",
+      "desc": "Junk food is delicious, but has been rumored to cause colon cancer",
+      "img": "https://now.tufts.edu/sites/default/files/uploaded-assets/images/2023-04/230427_junkfood.jpg",
+      "category": "Junk Food",
+      "likes": 0,
+      "dislikes": 0,
+      "date": "6/20/2023, 9:49:42 AM"
+    }
   ]
 }
